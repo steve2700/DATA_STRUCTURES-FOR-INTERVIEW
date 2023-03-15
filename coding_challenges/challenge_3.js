@@ -1,0 +1,1 @@
+let car; // This is what we call undefined value
