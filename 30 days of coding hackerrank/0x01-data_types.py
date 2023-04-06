@@ -22,8 +22,9 @@ s2 = input()
 #print the sum of i of int
 print(i + i2)
 #print the sum of the double to sum with d 
-print(d + d2)
-#print th string that concatenate with s
+# and round off to 1 decimal place
+print(round(d + d2, 1))
+#print the string that concatenate with s
 print(s + s2)
 
 
