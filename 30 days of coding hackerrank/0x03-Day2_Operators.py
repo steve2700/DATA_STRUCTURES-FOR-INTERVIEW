@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 #funny!
 import math
@@ -61,17 +61,4 @@ def solve(meal_cost, tip_percent, tax_percent):
         tax_percent = int(input().strip())
 
         solve(meal_cost, tip_percent, tax_percent)
-
-
-    
-
-
-
-
-
-
-
-
-
-
->>>>>>> f722f8f78daa9c58f161795517eba36faa3633d4
+        
