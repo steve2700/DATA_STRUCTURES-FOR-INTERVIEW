@@ -10,9 +10,9 @@
 #The third line contains a string that you must concatenate with s.
 
 # reading 3 variable int , float and string
-i = 4
-d = 4.0
-s = 'Hackerrank'
+i = 4  #int
+d = 4.0 #float
+s = 'Hackerrank' # strings
 
 # declare 3 variables and read them 
 i2 = int(input())

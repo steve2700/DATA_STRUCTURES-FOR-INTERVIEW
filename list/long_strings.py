@@ -6,7 +6,7 @@
 def long_strings(strings):
     return [word for word in strings if len(word) >= 5]
     
-    
+
 input_list = ['cat', 'dog', 'fish' , 'bird', 'elephant']
 new_list =long_strings(input_list)
 print(new_list)
