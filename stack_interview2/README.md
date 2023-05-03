@@ -16,5 +16,5 @@ Initially, the stacks look like this:
 initial stacks
 
 To equalize thier heights, remove the first cylinder from stacks  and , and then remove the top two cylinders from stack  (shown below).</h1>
-
+<img src = "https://s3.amazonaws.com/hr-challenge-images/21404/1465645312-e48f85c176-piles2.png">
 
